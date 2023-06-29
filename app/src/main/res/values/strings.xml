@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Inches to meters App</string>
+    <string name="image_content_description">Inches to Meters Converter</string>
+    <string name="text_view_title">CONVERTER</string>
+    <string name="edit_text_inches_hint">1</string>
+    <string name="text_view_inches">In =</string>
+    <string name="text_view_meter_hint">0.0254</string>
+    <string name="text_view_meter">m</string>
+    <string name="button_text">Convert</string>
+</resources>
